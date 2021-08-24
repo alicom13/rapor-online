@@ -1,0 +1,12 @@
+# Kepala Sekolah
+Ahmad Mutawakkil	admin	rapor-online
+
+# Guru Mapel
+=================================================================
+| Nama		| NIP			| Password		| Tugas				|
+=================================================================
+| Abu Bakar	| RO202113001	| RO202113001	| Guru Mapel		|
+| Umar		| RO202113002	| RO202113002	| Guru Mapel + BK	|
+| Utsman	| RO202113003	| RO202113003	| Guru Mapel + Walas|
+| Ali		| RO202113004	| RO202113004	| Guru Mapel		|
+=================================================================

@@ -1,0 +1,23 @@
+# Modul Guru
+1. Username dari Nama menjadi NIP
+2. Username dari 6 digit menjadi 20 Digit
+2. Prefix Username SMP
+
+# Struktur Aplikasi
+1. Belum pada lokasi upload
+
+# Import Demo Siswa
+nis
+nisn
+nama
+jenis kelamin
+tempat lahir
+tanggal lahir
+agama
+status anak
+diterima dikelas
+tanggal diterima
+
+# Fix
+input Online fix
+Impor Siswa via excell
